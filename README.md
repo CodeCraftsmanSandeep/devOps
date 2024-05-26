@@ -35,14 +35,14 @@ devOps is not a technology but a methodology.
   - Being **resilient** during failures. DevOps aim to handle failures within the software development process by enabiling quick recovery from failures, potentially through automated methods like reverting to previous code versions.
 
 #### Agile methodologies
-1) Agile is a set of principles that focuses on collaboration, customer feedback and rapid releases. (Old methods of slow planning and infrequent releases don't work.) Focusing on small tasks instead of tackling large projects all at once.
-2) Deliver products more frequently.
-3) Agile focuses on flow of software from idea to completion. Agile included collaboration between developers and project management team to enhance software products releases. However agile omitted operations team!! Thats where DevOps comes in. DevOps includes developers team and operations team.
-4) Frameworks : 
+1) See [agilealliance](https://www.agilealliance.org/agile101/the-agile-manifesto/) for agile manifesto. ![agile manifesto](agile_manifesto.png)
+2) Agile is a set of principles that focuses on collaboration, customer feedback and rapid releases. (Old methods of slow planning and infrequent releases don't work.) Focusing on small tasks instead of tackling large projects all at once.
+3) Deliver products more frequently.
+4) Agile focuses on flow of software from idea to completion. Agile included collaboration between developers and project management team to enhance software products releases. However agile omitted operations team!! Thats where DevOps comes in. DevOps includes developers team and operations team.
+5) Frameworks : 
    1) Scurm
    2) Extreme programming
    3) Feature-Driven Development etc..
-5) See [agilealliance](https://www.agilealliance.org/agile101/the-agile-manifesto/) for agile manifesto. ![agile manifesto](agile_manifesto.png)
 
 ## Table of contents
 
