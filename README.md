@@ -28,9 +28,9 @@ devOps is not a technology but a methodology.
 - DevOps address the issue of conflicting goals betweeen development and operations teams by merging both teams into one DevOps team with shared goals of speed and stability.
 - DevOps goals: 
   - Decrease developement cycle time. Which thereby decreases the time to take ideas to market (**Time to market**). Which increases the frequency of software releases.
-  - Improving **Efficiency** (by collaboration of developers and operations team). Continuous testing in DevOps culture help developers identify and resolve errors immediately, enhancing efficiency.
-  - Improving the quality of software by continuous monitoring, CI and CD. Continuous integration and devilery help in maintain the quality of software by ensuring changes are functional and secure.
-  - Improve security (which is known as DevSecOps) by involving security team. 
+  - Improving **efficiency** (by collaboration of developers and operations team). Continuous testing in DevOps culture help developers identify and resolve errors immediately, enhancing efficiency.
+  - Improving the **quality** of software by continuous monitoring, CI and CD. Continuous integration and devilery help in maintain the quality of software by ensuring changes are functional and secure.
+  - Improve **security** (which is known as DevSecOps) by involving security team. 
     - Integration of security team into the DevOps process results in incorporating security from the beginning, enhancing the security of the software developed.
   - Being **resilient** during failures. DevOps aim to handle failures within the software development process by enabiling quick recovery from failures, potentially through automated methods like reverting to previous code versions.
 
