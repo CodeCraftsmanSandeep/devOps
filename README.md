@@ -18,7 +18,9 @@ devOps is not a technology but a methodology.
     | Development team | DevOps team | Operations team |
     |:-----------------|:------------|:----------------|
     | Creating and maintaining software products | Bridging the gap between development and operations to improve efficiency and collaboration, automating processes to facilitate CI/CD | Managing and maintaining IT infrastructure and ensuring the smooth operation of IT services |
-- 
+    | Goal: How fast they can develop? | Goal: Bring development and operations team together | Goal: How stable is the software is? |
+- DevOps creators are us!! (software community)
+- DevOps Loop: Plan --> Build --> CI/CD --> Monitor and Alert --> Operate --> Continuous feedback --> Plan
 
 
 
@@ -26,4 +28,6 @@ devOps is not a technology but a methodology.
 
 ## Resources:
 
-1) Edurekha https://www.youtube.com/watch?v=hQcFE0RD0cQ
+1) ATLASSIAN https://www.atlassian.com/devops
+2) 
+3) Edurekha https://www.youtube.com/watch?v=hQcFE0RD0cQ
