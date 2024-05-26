@@ -44,7 +44,29 @@ devOps is not a technology but a methodology.
    2) Extreme programming
    3) Feature-Driven Development etc..
 
+## Automated testing in cycle
+- Development --> Quality Assurance --> Operations --> Developement
+- Automated and continous testing 
+  - Helps in taking less time for Quality Assurance team for testing.
+  - Helps in efficient writing of code for developers, because they get faster feedback. Immediate feedback from automated testing reduces the context switching time and enhances efficiency since the code is still fresh in their minds.
+- Impact: Less context switch time for developers, Less negative user feedback, Less time to market.
+
+### Why automation?
+- Reference: https://www.agilealliance.org/glossary/automated-build/
+- If there is any scope of automation, do it!! Because it will save time, eliminate variation, ensure no human errors and productivity of an employee increases.
+- Most repetitive tasks can be automated!!
+- Some of the tools to automate build process:
+  - Jenkins
+  - Maven
+  - Gradle
+  - Bamboo and more..
+
+
+## Continuous Integration (CI) ([link](bit.ly/3L3e7iZ))
+- Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project.
+
 <!-- ## Table of contents -->
+
 
 ## Resources:
 
