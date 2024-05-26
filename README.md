@@ -34,7 +34,7 @@ devOps is not a technology but a methodology.
     - Integration of security team into the DevOps process results in incorporating security from the beginning, enhancing the security of the software developed.
   - Being **resilient** during failures. DevOps aim to handle failures within the software development process by enabiling quick recovery from failures, potentially through automated methods like reverting to previous code versions.
 
-#### Agile methodologies
+## Agile methodologies
 1) See [agilealliance](https://www.agilealliance.org/agile101/the-agile-manifesto/) for agile manifesto. ![agile manifesto](agile_manifesto.png)
 2) Agile is a set of principles that focuses on collaboration, customer feedback and rapid releases. (Old methods of slow planning and infrequent releases don't work.) Focusing on small tasks instead of tackling large projects all at once.
 3) Deliver products more frequently.
@@ -44,7 +44,7 @@ devOps is not a technology but a methodology.
    2) Extreme programming
    3) Feature-Driven Development etc..
 
-## Table of contents
+<!-- ## Table of contents -->
 
 ## Resources:
 
