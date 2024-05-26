@@ -62,7 +62,7 @@ devOps is not a technology but a methodology.
   - Bamboo and more..
 
 
-## Continuous Integration (CI) ([link](bit.ly/3L3e7iZ))
+## Continuous Integration (CI) ([link](https://www.atlassian.com/continuous-delivery/continuous-integration))
 - Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project.
 
 <!-- ## Table of contents -->
