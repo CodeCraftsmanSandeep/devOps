@@ -19,7 +19,7 @@ devOps is not a technology but a methodology.
 - In a company (or) an organisation the roles and responsibilities of the operations team, DevOps team and developement team are distinct but are interconnected <br/>
     | Development team | DevOps team | Operations team |
     |:-----------------|:------------|:----------------|
-    | Creating and maintaining software products | Bridging the gap between development and operations to improve efficiency and collaboration, automating processes to facilitate CI/CD | Managing and maintaining IT infrastructure and ensuring the smooth operation of IT services |
+    | Creating and maintaining software products | Bridging the gap between development and operations to improve efficiency and collaboration, automating processes to facilitate CI/CD | Managing and maintaining IT infrastructure and ensuring the smooth operation of IT services. The team that deploys and monitors the software products. |
     | Goal: How fast they can develop? | Goal: Bring development and operations team together | Goal: How stable is the software is? |
 
 #### DevOps Loop and goals
@@ -27,13 +27,15 @@ devOps is not a technology but a methodology.
 - DevOps Loop: Plan --> Build --> CI/CD --> Monitor and Alert --> Operate --> Continuous feedback --> Plan
 - DevOps address the issue of conflicting goals betweeen development and operations teams by merging both teams into one DevOps team with shared goals of speed and stability.
 - DevOps goals: 
-  - Decrease developement cycle time. Which thereby decreases the time to take ideas to market.
-  - Efficiency (by collaboration of developers and operations team).
-  - Improving the quality of software by continuous monitoring, CI and CD.
-  - Improve security (Which is DevSecOps) by involving security team.
+  - Decrease developement cycle time. Which thereby decreases the time to take ideas to market (**Time to market**). Which increases the frequency of software releases.
+  - Improving **Efficiency** (by collaboration of developers and operations team). Continuous testing in DevOps culture help developers identify and resolve errors immediately, enhancing efficiency.
+  - Improving the quality of software by continuous monitoring, CI and CD. Continuous integration and devilery help in maintain the quality of software by ensuring changes are functional and secure.
+  - Improve security (which is known as DevSecOps) by involving security team. 
+    - Integration of security team into the DevOps process results in incorporating security from the beginning, enhancing the security of the software developed.
+  - Being **resilient** during failures. DevOps aim to handle failures within the software development process by enabiling quick recovery from failures, potentially through automated methods like reverting to previous code versions.
 
-
-
+#### Agile methodology in DevOps
+- 
 
 ## Table of contents
 
